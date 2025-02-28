@@ -1,4 +1,3 @@
-### welcome! 👋👋
 [![trophy](https://github-profile-trophy.vercel.app/?username=sparklyi&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=永远相信美好的事情即将发生&center=true&size=27"> </a> </h1>
