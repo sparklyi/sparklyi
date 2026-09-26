@@ -39,32 +39,6 @@
   </picture>
 </p>
 
-### Featured projects
-
-#### [SOJ](https://github.com/sparklyi/SOJ) · Sundial Online Judge
-
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev)
-[![stars](https://img.shields.io/github/stars/sparklyi/SOJ?style=flat-square&label=stars&color=0969da)](https://github.com/sparklyi/SOJ/stargazers)
-[![last commit](https://img.shields.io/github/last-commit/sparklyi/SOJ?style=flat-square&label=last%20commit)](https://github.com/sparklyi/SOJ/commits)
-
-Self-hosted online judge backend: REST API, asynchronous judge pipeline, contests, and scoreboards.
-
-#### [SOJ-web](https://github.com/sparklyi/SOJ-web) · Next.js frontend
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![stars](https://img.shields.io/github/stars/sparklyi/SOJ-web?style=flat-square&label=stars&color=0969da)](https://github.com/sparklyi/SOJ-web/stargazers)
-[![last commit](https://img.shields.io/github/last-commit/sparklyi/SOJ-web?style=flat-square&label=last%20commit)](https://github.com/sparklyi/SOJ-web/commits)
-
-Practice, contests, submissions, and live scoreboards.
-
-#### [codex-feishu-bridge](https://github.com/sparklyi/codex-feishu-bridge)
-
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev)
-[![stars](https://img.shields.io/github/stars/sparklyi/codex-feishu-bridge?style=flat-square&label=stars&color=0969da)](https://github.com/sparklyi/codex-feishu-bridge/stargazers)
-[![last commit](https://img.shields.io/github/last-commit/sparklyi/codex-feishu-bridge?style=flat-square&label=last%20commit)](https://github.com/sparklyi/codex-feishu-bridge/commits)
-
-Local daemon that lets authorized Feishu users start and continue Codex tasks.
-
 ---
 
 <p align="center">
