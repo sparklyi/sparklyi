@@ -2,7 +2,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&center=true&vCenter=true&width=820&height=44&color=58A6FF&lines=Always+believe+that+something+wonderful+is+about+to+happen">
-    <img alt="Always believe that something wonderful is about to happen" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&center=true&vCenter=true&width=820&height=44&color=0969DA&lines=Always+believe+that+something+wonderful+is+about+to+happen">
+    <img alt="Always believe that something wonderful is about to happen!" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&center=true&vCenter=true&width=820&height=44&color=0969DA&lines=Always+believe+that+something+wonderful+is+about+to+happen">
   </picture>
 </p>
 
